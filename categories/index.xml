@@ -39,14 +39,6 @@
         <guid>https://www.heisenw.com/categories/%E9%A9%B4%E8%A1%8C/</guid>
         <description></description>
         </item>
-        <item>
-        <title>Test</title>
-        <link>https://www.heisenw.com/categories/test/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://www.heisenw.com/categories/test/</guid>
-        <description>&lt;img src="https://www.heisenw.com/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Test" /&gt;</description>
-        </item>
         
     </channel>
 </rss>
