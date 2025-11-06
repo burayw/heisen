@@ -6,7 +6,7 @@
 
 <link rel='canonical' href='https://www.heisenw.com/posts/hongyingjidi/'>
 
-<link rel="stylesheet" href="/scss/style.min.6a692fd055deae459f2a9767f57f3855ba80cafd5041317f24f7360f6ca47cdf.css"><meta property='og:title' content="红颖基地">
+<link rel="stylesheet" href="/scss/style.min.b0e76e98cdd4f7082d1fc36f7af7e0843a81201db2197c03ca426751dc923735.css"><meta property='og:title' content="红颖基地">
 <meta property='og:description' content="\n上篇 红 2085年11月29日 这件屋子大约在王珂小时候就有了，除了他现在还没有人去过，如今，他要成为第一个进去的人。 “呼！感觉还不错，不是太老旧，看上去像新装修的一样，”王珂好像想起了什么，微微皱起眉头，“不对劲啊，这间屋子自从建造以来&hellip;&hellip;我不是第一个进去的吗？难道我来晚了，已经成一个旅游景点了吗？”随着越来越往里的深入，墙上一个小红点，被逐渐放大，逐渐放大，直到占据了整面墙。 这些红霉菌蔓延的速度堪比一只野马在草原上飞驰。红霉菌只能在有生物生存的地方生长，这不得不让王珂更加怀疑这件屋子的真实性，在他深陷疑惑之时，他猛地坐了起来，大口的喘着气。 “原来是场梦。” 看向窗外的一轮红月，是鲜血的颜色。 “的确是梦，好真实的梦啊。” 天空中用几颗杂乱的彗星轨迹拼出几个字：这不是梦！这是现实！重复！这不是梦！这是现实！\n">
 <meta property='og:url' content='https://www.heisenw.com/posts/hongyingjidi/'>
 <meta property='og:site_name' content='王行川的抽象人生'>
@@ -325,7 +325,7 @@
   <path d="M3 11h16" />
   <path d="M18 16.496v1.504l1 1" />
 </svg>
-                <time class="article-time--published">2025-10-30</time>
+                <time class="article-time--published" datetime='2025-10-30T00:00:00Z'>2025-10-30</time>
             </div>
         
 
@@ -447,18 +447,24 @@
                 >
             </script><script>
     window.addEventListener("DOMContentLoaded", () => {
-	const mainArticleElement = document.querySelector(".main-article");
-        renderMathInElement(mainArticleElement, {
-            delimiters: [
-                { left: "$$", right: "$$", display: true },
-                { left: "$", right: "$", display: false },
-                { left: "\\(", right: "\\)", display: false },
-                { left: "\\[", right: "\\]", display: true }
-            ],
-            ignoredClasses: ["gist"]
-        });})
-</script>
+        const elementsToRender = [".main-article", ".widget--toc"];
 
+        elementsToRender.forEach(selector => {
+            const element = document.querySelector(selector);
+            if (element) {
+                renderMathInElement(element, {
+                    delimiters: [
+                        { left: "$$", right: "$$", display: true },
+                        { left: "$", right: "$", display: false },
+                        { left: "\\(", right: "\\)", display: false },
+                        { left: "\\[", right: "\\]", display: true }
+                    ],
+                    ignoredClasses: ["gist"]
+                });
+            }
+        });
+    });
+</script>
     
 </article>
 
@@ -478,7 +484,9 @@
         2025 Heisen
     </section>
     
-    
+    <section class="powerby">
+        <b><a href="https://www.buray.top" target="_blank" rel="noopener">Buray </a></b>使用HUGO 构建
+    </section>
 </footer>
 
 
@@ -566,7 +574,7 @@
                 src="https://cdn.jsdelivr.net/npm/node-vibrant@3.1.6/dist/vibrant.min.js"integrity="sha256-awcR2jno4kI5X0zL8ex0vi2z&#43;KMkF24hUW8WePSA9HM="crossorigin="anonymous"
                 
                 >
-            </script><script type="text/javascript" src="/ts/main.1e9a3bafd846ced4c345d084b355fb8c7bae75701c338f8a1f8a82c780137826.js" defer></script>
+            </script><script type="text/javascript" src="/ts/main.c922af694cc257bf1ecc41c0dd7b0430f9114ec280ccf67cd2c6ad55f5316c4e.js" defer></script>
 <script>
     (function () {
         const customFont = document.createElement('link');
