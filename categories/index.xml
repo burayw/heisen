@@ -7,7 +7,15 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Heisen</copyright>
-        <lastBuildDate>Fri, 07 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.heisenw.com/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 08 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.heisenw.com/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>闲的</title>
+        <link>https://www.heisenw.com/categories/%E9%97%B2%E7%9A%84/</link>
+        <pubDate>Sat, 08 Nov 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.heisenw.com/categories/%E9%97%B2%E7%9A%84/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>乱写</title>
         <link>https://www.heisenw.com/categories/%E4%B9%B1%E5%86%99/</link>
         <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
@@ -29,14 +37,6 @@
         <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
         
         <guid>https://www.heisenw.com/categories/%E5%B7%9D%E8%AF%B4/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>闲的</title>
-        <link>https://www.heisenw.com/categories/%E9%97%B2%E7%9A%84/</link>
-        <pubDate>Sun, 26 Oct 2025 00:00:00 +0000</pubDate>
-        
-        <guid>https://www.heisenw.com/categories/%E9%97%B2%E7%9A%84/</guid>
         <description></description>
         </item>
         
