@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>扫雷 on 王行川的抽象人生</title>
+        <link>https://www.heisenw.com/tags/%E6%89%AB%E9%9B%B7/</link>
+        <description>Recent content in 扫雷 on 王行川的抽象人生</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>Heisen</copyright>
+        <lastBuildDate>Sun, 16 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.heisenw.com/tags/%E6%89%AB%E9%9B%B7/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>qj0001-红温的qj</title>
+        <link>https://www.heisenw.com/posts/hot-qj/</link>
+        <pubDate>Sun, 16 Nov 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.heisenw.com/posts/hot-qj/</guid>
+        <description>&lt;img src="https://img.heisenw.com/blog/img/fbf9d1ab-b477-4e7b-a8b6-1147df777def.webp" alt="Featured image of post qj0001-红温的qj" /&gt;&lt;p&gt;时间限制：C/C++ 1000MS，其他 2000MS&lt;br&gt;
+内存限制：C/C++ 256MB，其他 512MB&lt;br&gt;
+难度：普及-（1–10 1（小分数））&lt;br&gt;
+分数：100 OI排行榜得分：14(0.1分数+2难度)&lt;br&gt;
+出题人：qx2783&amp;amp;陈宣泽宇&lt;/p&gt;
+&lt;h2 id=&#34;题目描述&#34;&gt;题目描述
+&lt;/h2&gt;&lt;p&gt;有一天，qj在玩扫雷的时候，手欠定了一个100*100 2600个雷的格盘，于是便玩了起来，xy+1次点击后，离刚开始第一次点击差了y次，只剩下一个雷没有排除，不小心手滑了，点到了雷，THE END，于是骂道：“我c，这啥破游戏，我™真服了，c！不玩了！”&lt;/p&gt;
+&lt;h2 id=&#34;输入描述&#34;&gt;输入描述
+&lt;/h2&gt;&lt;p&gt;3个整数 x，y，z&lt;/p&gt;
+&lt;h2 id=&#34;输出描述&#34;&gt;输出描述
+&lt;/h2&gt;&lt;p&gt;1个整数距离qj红温过去了几个时间&lt;/p&gt;
+&lt;h2 id=&#34;解释与提示&#34;&gt;解释与提示
+&lt;/h2&gt;&lt;p&gt;点开一个无雷的格子需1个时间&lt;br&gt;
+qj不可能胜利&lt;br&gt;
+一共有z条命，点到一个有雷的格子，如果你还有命，你可以等待3个时间继续进行你的操作&lt;br&gt;
+红温需要2个时间&lt;br&gt;
+&lt;code&gt;0&amp;lt;=x&amp;lt;=1010&lt;/code&gt;&lt;br&gt;
+&lt;code&gt;0&amp;lt;=y&amp;lt;=1010&lt;/code&gt;&lt;/p&gt;
+&lt;h2 id=&#34;样例输入&#34;&gt;样例输入
+&lt;/h2&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;99 100 10
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h3 id=&#34;样例输出&#34;&gt;样例输出
+&lt;/h3&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;129
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+        </item>
+        
+    </channel>
+</rss>
