@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>字符串 on 王行川的抽象人生</title>
+        <link>https://www.heisenw.com/categories/%E5%AD%97%E7%AC%A6%E4%B8%B2/</link>
+        <description>Recent content in 字符串 on 王行川的抽象人生</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>Heisen</copyright>
+        <lastBuildDate>Thu, 04 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.heisenw.com/categories/%E5%AD%97%E7%AC%A6%E4%B8%B2/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>字符串笔记</title>
+        <link>https://www.heisenw.com/posts/char/</link>
+        <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.heisenw.com/posts/char/</guid>
+        <description>&lt;img src="https://img.heisenw.com/blog/img/8f0b905c-e5c7-4556-a4ec-8258661ff175.webp" alt="Featured image of post 字符串笔记" /&gt;&lt;p&gt;&lt;img src=&#34;https://img.heisenw.com/blog/img/8f0b905c-e5c7-4556-a4ec-8258661ff175.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;
+求数据所占空间大小的函数：&lt;code&gt;sizeof();&lt;/code&gt;&lt;br&gt;
+字符类型的数组（字符串保存方法）：&lt;code&gt;char a[10];&lt;/code&gt;&lt;br&gt;
+字符串的输入：&lt;code&gt;cin&amp;gt;&amp;gt;a;&lt;/code&gt; &lt;br&gt;
+字符串的输入（整行输入）：&lt;code&gt;cin.getline(a,输入的长度);&lt;/code&gt;&lt;br&gt;
+字符串的输出：&lt;code&gt;cout&amp;lt;&amp;lt;a;&lt;/code&gt;&lt;br&gt;
+求字符串长度的函数：&lt;code&gt;strlen(a);(string length)&lt;/code&gt;&lt;/p&gt;
+&lt;h3 id=&#34;所有的字符串都会在结尾加一个字符&#34;&gt;&lt;strong&gt;所有的字符串都会在结尾加一个字符&lt;code&gt;\0&lt;/code&gt;&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;&lt;code&gt;\&lt;/code&gt;后面的序号（阿拉伯数字）都算1个字符&lt;br&gt;
+把B的内容复制到A（字符串的复制）：&lt;code&gt;strcpy(a,b);(string copy)&lt;/code&gt;&lt;br&gt;
+把字符串B拼接到A后面（字符串的拼接）：&lt;code&gt;strcat(a,b);&lt;/code&gt;&lt;br&gt;
+比较两个字符串的字典序（ASCII码值）(字符串的比较)：&lt;code&gt;strcmp(a,b);&lt;/code&gt;(string compare)&lt;br&gt;
+接上行：（比较规则：下标从小到大开始比较，如果相等继续比，一旦比出大小结束）&lt;br&gt;
+接上行：（比较结果：&lt;code&gt;a&amp;gt;b&lt;/code&gt;返回&lt;code&gt;1&lt;/code&gt;，&lt;code&gt;a=b&lt;/code&gt;返回&lt;code&gt;-1&lt;/code&gt;，&lt;code&gt;a&amp;lt;b&lt;/code&gt;返回&lt;code&gt;-1&lt;/code&gt;）&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
