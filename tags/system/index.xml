@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>System on 王行川的抽象人生</title>
-        <link>https://www.heisenw.com/categories/system/</link>
+        <link>https://www.heisenw.com/tags/system/</link>
         <description>Recent content in System on 王行川的抽象人生</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Heisen</copyright>
-        <lastBuildDate>Thu, 04 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.heisenw.com/categories/system/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 04 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.heisenw.com/tags/system/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>为了防止你们被人坑，贴心赠上system函数用法</title>
         <link>https://www.heisenw.com/posts/system/</link>
         <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
